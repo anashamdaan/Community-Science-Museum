@@ -1,4 +1,3 @@
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -19,7 +18,6 @@ img {
     display: block;
 }
 
-/* Header Section */
 .header {
     background-color: #333;
     color: white;
@@ -64,7 +62,6 @@ img {
 left: 17.8em;
 }
 
-/* Hero Section */
 .Contact-Us h1 {
     text-align: center;
     font-size: 2.5em;
@@ -83,8 +80,6 @@ left: 17.8em;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-
-/* Terms Section */
 .terms-container {
     padding: 20px;
     max-width: 800px;
@@ -105,7 +100,6 @@ left: 17.8em;
     margin: 10px 0;
 }
 
-/* Contact Form Section */
 .contact-section {
     background-color: #f0f0f0;
     padding: 40px 20px;
@@ -162,7 +156,6 @@ left: 17.8em;
     height: 40px;
 }
 
-/* Chat Button */
 .chat {
     position: fixed;
     bottom: 20px;
@@ -181,7 +174,6 @@ left: 17.8em;
     background-color: #0056b3;
 }
 
-/* Footer Section */
 footer {
     background-color: #333;
     color: white;
@@ -221,7 +213,6 @@ footer {
     color: #0056b3;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .navbar ul {
         flex-direction: column;

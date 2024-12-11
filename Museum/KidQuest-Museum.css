@@ -1,4 +1,3 @@
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -19,7 +18,6 @@ img {
     display: block;
 }
 
-/* Header Section */
 header {
     position: relative;
     text-align: center;
@@ -105,7 +103,6 @@ header {
     background-color: #0056b3;
 }
 
-/* Kids and Teachers Sections */
 section {
     padding: 20px;
     text-align: center;
@@ -142,7 +139,6 @@ section p {
     transform: scale(1.05);
 }
 
-/* Footer Section */
 footer {
     background-color: #333;
     color: white;
@@ -182,7 +178,6 @@ footer {
     color: #0056b3;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .navbar ul {
         flex-direction: column;
