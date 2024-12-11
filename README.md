@@ -1,6 +1,6 @@
 # Community Science Museum
 
-![Community Science Museum](/images/museum-screenshot.png)  
+![Community Science Museum](/images/museum-screenshot%201.png)  
 *A simple overview of the purpose of the Community Science Museum project.*
 
 ---
